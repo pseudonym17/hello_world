@@ -4,9 +4,9 @@ This shows how to say Hello World in python.
 
 This is for the purpose of demonstrating how to create repositories for GitHub.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+The following video is my overview of this project.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Creating My Hello World Repository](https://youtu.be/T-61Evoy65E)
 
 # Development Environment
 
